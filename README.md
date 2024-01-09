@@ -30,3 +30,6 @@ Vue.use(JSONVIEW)
 
 JSONVIEW.initValidate(extend,localize)
 ```
+
+#### 使用说明
+https://blog.csdn.net/u011663865/article/details/135463025?spm=1001.2014.3001.5502

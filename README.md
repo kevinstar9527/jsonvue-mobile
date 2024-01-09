@@ -44,3 +44,6 @@ https://blog.csdn.net/u011663865/article/details/135463025?spm=1001.2014.3001.55
 
 #### 展示效果
 ![输入图片说明](jsonvue-mobile-demo.gif)
+
+### 演示地址
+[点我直达](http://127.37.220.175:8080/jsonvue)

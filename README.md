@@ -30,6 +30,15 @@ Vue.use(JSONVIEW)
 
 JSONVIEW.initValidate(extend,localize)
 ```
+#### 使用方式
+在template中引入表单组件ModuleFiled即可
+
+```
+<template>
+    <ModuleField ref="form" :fieldList="fieldList" @onCell="onCell">
+</template>
+```
 
 #### 使用说明
 https://blog.csdn.net/u011663865/article/details/135463025?spm=1001.2014.3001.5502
+
